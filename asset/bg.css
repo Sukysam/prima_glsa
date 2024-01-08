@@ -25,15 +25,15 @@
 }
 
 .bg-img-1 {
-    background-image: url(./img/slide/slide1.jpg);
+    background-image: url(./img/slide/slide1.webp);
 }
 
 .bg-img-2 {
-    background-image: url(./img/slide/slide2.jpg);
+    background-image: url(./img/slide/slide2.webp);
 }
 
 .bg-img-3 {
-    background-image: url(./img/slide/slide3.jpg);
+    background-image: url(./img/slide/slide3.webp);
 }
 
 .carousel-image {
@@ -56,13 +56,13 @@
 
 @media (max-width: 576px) {
     .bg-img-1 {
-        background-image: url(./img/slide/mobile-slide1.jpg);
+        background-image: url(./img/slide/mobile-slide1.webp);
     }
     .bg-img-2 {
-        background-image: url(./img/slide/mobile-slide2.jpg);
+        background-image: url(./img/slide/mobile-slide2.webp);
     }
     .bg-img-3 {
-        background-image: url(./img/slide/mobile-slide3.jpg);
+        background-image: url(./img/slide/mobile-slide3.webp);
     }
     .carousel-image {
         height: 80vh;
