@@ -36,6 +36,10 @@
     background-image: url(./img/slide/slide3.webp);
 }
 
+.bg-img-4 {
+    background-image: url(./img/slide/slide4.webp);
+}
+
 .carousel-image {
     height: 75vh;
     background-repeat: no-repeat;
@@ -63,6 +67,9 @@
     }
     .bg-img-3 {
         background-image: url(./img/slide/mobile-slide3.webp);
+    }
+    .bg-img-4 {
+        background-image: url(./img/slide/mobile-slide4.webp);
     }
     .carousel-image {
         height: 80vh;
