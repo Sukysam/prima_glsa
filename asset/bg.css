@@ -40,6 +40,11 @@
     background-image: url(./img/slide/slide4.webp);
 }
 
+.p-size {
+    font-size: 30px !important;
+    font-weight: 100;
+}
+
 .carousel-image {
     height: 75vh;
     background-repeat: no-repeat;
