@@ -1,3 +1,8 @@
+body {
+    background-color: #222529;
+    padding-top: 20px;
+}
+
 .card-items {
     display: flex;
     align-items: center;
@@ -6,6 +11,11 @@
     padding: 5px;
     padding-top: 15px;
     margin-bottom: 5px;
+}
+
+.prima {
+    color: #eb3568;
+    font-weight: 800;
 }
 
 .card-items i {
