@@ -36,6 +36,7 @@ body {
 
 .bg-img-1 {
     background-image: url(./img/slide/slide1.webp);
+    display: flex;
 }
 
 .bg-img-2 {
@@ -53,6 +54,22 @@ body {
 .p-size {
     font-size: 30px !important;
     font-weight: 100;
+}
+
+.p-card {
+    background-color: #eb3568;
+    border-radius: 10px;
+    margin-top: 0;
+}
+
+.p-card p {
+    font-size: 24px;
+    padding: 30;
+    font-weight: 200;
+}
+
+.p-card p span {
+    font-weight: 700;
 }
 
 .carousel-image {
