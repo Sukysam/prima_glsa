@@ -34,9 +34,16 @@ body {
     color: #f7c144;
 }
 
+.p-position {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
 .bg-img-1 {
     background-image: url(./img/slide/slide1.webp);
-    display: flex;
 }
 
 .bg-img-2 {
@@ -58,14 +65,17 @@ body {
 
 .p-card {
     background-color: #eb3568;
-    border-radius: 10px;
-    margin-top: 0;
+    border-radius: 5px;
+    margin-top: 20px;
+    box-shadow: 0 0 25px rgba(0, 0, 0, 0.25);
+    ;
 }
 
 .p-card p {
-    font-size: 24px;
-    padding: 30;
-    font-weight: 200;
+    font-size: 20px;
+    font-weight: 300;
+    margin: 0;
+    padding: 10px 15px;
 }
 
 .p-card p span {
@@ -105,5 +115,13 @@ body {
     }
     .carousel-image {
         height: 80vh;
+    }
+    .p-card p {
+        font-size: 14px;
+    }
+    .p-card {
+        margin-left: 10px;
+        margin-right: 10px;
+        ;
     }
 }
