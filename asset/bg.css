@@ -130,3 +130,22 @@ body {
         ;
     }
 }
+
+@media (max-width: 1200px) {
+    .carousel-image {
+        height: 90vh;
+    }
+    .p-card p {
+        font-size: 10px;
+        line-height: 5px;
+    }
+    .p-size p {
+        font-size: 10px;
+        line-height: 5px;
+    }
+    .p-card {
+        margin-left: 10px;
+        margin-right: 10px;
+        ;
+    }
+}
